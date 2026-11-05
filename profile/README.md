@@ -7,6 +7,6 @@ Our work starts with the problem: understanding the task, evaluating where AI ca
 ### Explore
 
 - [Veracto website](https://veracto.ai/) — our approach and the audiences we work with.
-- [Website case study](https://github.com/timsmykov/veracto-site-showcase) — an independent public edition of the bilingual site, published by Veracto co-founder Tim Smykov.
+- [Website case study](https://github.com/Veracto/veracto-site-showcase) — the bilingual website, its implementation and design decisions.
 
 This organization is a place for selected public work and case studies. Each publication will describe its scope, contributors and evidence.
