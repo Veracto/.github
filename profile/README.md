@@ -8,5 +8,6 @@ Our work starts with the problem: understanding the task, evaluating where AI ca
 
 - [Veracto website](https://veracto.ai/) — our approach and the audiences we work with.
 - [Website case study](https://github.com/Veracto/veracto-site-showcase) — the bilingual website, its implementation and design decisions.
+- [Agent team case study](https://github.com/Veracto/openbot-team-case) — how we organize roles, coordination and scoped access for operational work with OpenBot.
 
 This organization is a place for selected public work and case studies. Each publication will describe its scope, contributors and evidence.
